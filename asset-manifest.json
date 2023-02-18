@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/aisagbonhi/static/css/main.0f46de7a.css",
-    "main.js": "/aisagbonhi/static/js/main.e0380208.js",
+    "main.css": "/aisagbonhi/static/css/main.c8862da3.css",
+    "main.js": "/aisagbonhi/static/js/main.daa3147d.js",
     "static/js/787.a90a34a0.chunk.js": "/aisagbonhi/static/js/787.a90a34a0.chunk.js",
     "static/media/project-img6.png": "/aisagbonhi/static/media/project-img6.2c7d54c2fd94c6fdcfa2.png",
     "static/media/netflix.png": "/aisagbonhi/static/media/netflix.e685741e578d2bfb7330.png",
@@ -22,12 +22,12 @@
     "static/media/aisagbonhi.pdf": "/aisagbonhi/static/media/aisagbonhi.f0c55a233a0081a0888c.pdf",
     "static/media/contact-img.svg": "/aisagbonhi/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "index.html": "/aisagbonhi/index.html",
-    "main.0f46de7a.css.map": "/aisagbonhi/static/css/main.0f46de7a.css.map",
-    "main.e0380208.js.map": "/aisagbonhi/static/js/main.e0380208.js.map",
+    "main.c8862da3.css.map": "/aisagbonhi/static/css/main.c8862da3.css.map",
+    "main.daa3147d.js.map": "/aisagbonhi/static/js/main.daa3147d.js.map",
     "787.a90a34a0.chunk.js.map": "/aisagbonhi/static/js/787.a90a34a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f46de7a.css",
-    "static/js/main.e0380208.js"
+    "static/css/main.c8862da3.css",
+    "static/js/main.daa3147d.js"
   ]
 }
