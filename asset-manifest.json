@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/aisagbonhi/static/css/main.0f46de7a.css",
+    "main.js": "/aisagbonhi/static/js/main.e0380208.js",
+    "static/js/787.a90a34a0.chunk.js": "/aisagbonhi/static/js/787.a90a34a0.chunk.js",
+    "static/media/project-img6.png": "/aisagbonhi/static/media/project-img6.2c7d54c2fd94c6fdcfa2.png",
+    "static/media/netflix.png": "/aisagbonhi/static/media/netflix.e685741e578d2bfb7330.png",
+    "static/media/project-img1.png": "/aisagbonhi/static/media/project-img1.16eb497ab3ef445fcbe8.png",
+    "static/media/project-img3.png": "/aisagbonhi/static/media/project-img3.157432de30e9fd48d5e4.png",
+    "static/media/comfy.png": "/aisagbonhi/static/media/comfy.566d88e58811c0cbe2e3.png",
+    "static/media/project-img4.png": "/aisagbonhi/static/media/project-img4.209c3ca451985d74f46e.png",
+    "static/media/portfolio.png": "/aisagbonhi/static/media/portfolio.7ef7c46600fdb31cf3c9.png",
+    "static/media/project-img5.png": "/aisagbonhi/static/media/project-img5.38310fca931cff05bab1.png",
+    "static/media/resp-education-website-02.png": "/aisagbonhi/static/media/resp-education-website-02.504da55739aef0b9cacd.png",
+    "static/media/header-img.svg": "/aisagbonhi/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/CentraNo2-Bold.ttf": "/aisagbonhi/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/aisagbonhi/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/aisagbonhi/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project-img2.png": "/aisagbonhi/static/media/project-img2.6c58bc6fe29e74776ac3.png",
+    "static/media/logo.png": "/aisagbonhi/static/media/logo.ecc4617d71ddd9eea008.png",
+    "static/media/budgetapp.png": "/aisagbonhi/static/media/budgetapp.f29e9b520d2f3a584c1c.png",
+    "static/media/aisagbonhi.pdf": "/aisagbonhi/static/media/aisagbonhi.f0c55a233a0081a0888c.pdf",
+    "static/media/contact-img.svg": "/aisagbonhi/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "index.html": "/aisagbonhi/index.html",
+    "main.0f46de7a.css.map": "/aisagbonhi/static/css/main.0f46de7a.css.map",
+    "main.e0380208.js.map": "/aisagbonhi/static/js/main.e0380208.js.map",
+    "787.a90a34a0.chunk.js.map": "/aisagbonhi/static/js/787.a90a34a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f46de7a.css",
+    "static/js/main.e0380208.js"
+  ]
+}
