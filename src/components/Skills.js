@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaHtml5, FaCss3Alt, FaJsSquare, FaReact, FaGit, FaBootstrap } from 'react-icons/fa';
+import { FaHtml5, FaCss3Alt, FaJsSquare, FaReact, FaGit, FaBootstrap, FaWordpress } from 'react-icons/fa';
 import nextjs from "../assets/img/nextjs.png";
 import tailwind from "../assets/img/tailwind.png";
 import vite from "../assets/img/vite.png";
@@ -47,6 +47,11 @@ export const Skills = () => (
       <FaBootstrap size={48} color="#563D7C"/>
       <p className="text-center text-xl hidden">Bootstrap</p>
       <div className="tooltip">Bootstrap</div>
+    </div>
+    <div className="icon-container">
+      <FaWordpress size={48} color="#61DAFB"/>
+      <p className="text-center text-xl hidden">Wordpress</p>
+      <div className="tooltip">Wordpress</div>
     </div>
     <div className="icon-container">
       <FaGit size={48} color="#F05032"/>
