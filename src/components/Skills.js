@@ -49,7 +49,7 @@ export const Skills = () => (
       <div className="tooltip">Bootstrap</div>
     </div>
     <div className="icon-container">
-      <FaWordpress size={48} color="#61DAFB"/>
+      <FaWordpress size={48} color="#1572B6"/>
       <p className="text-center text-xl hidden">Wordpress</p>
       <div className="tooltip">Wordpress</div>
     </div>
